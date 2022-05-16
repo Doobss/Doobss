@@ -3,7 +3,20 @@
 
 - 🌱 I’m currently learning **Rust, and taking a deeper dive into C++**
 
-- 👨‍💻 All of my projects are available at [Here](Here)
+- 👨‍💻 Some of the projects I've worked on:
+
+
+  - <a href="https://github.com/GreeneOcean/Project_Greene" >Greene Ocean</a>: A fullstack project where we built a web app that connects potential donors of goods to people and chariteis in their local area. <a href="https://github.com/positiveFx" >Stephanie Yeong</a> and I designed and Implemented the backend and the front ends overall application state.
+  - <img src="https://i.imgur.com/KLruRtZ.png" alt="Green ocean landing page" width="450" height="240" />  <img src="https://i.imgur.com/tucUhtK.png" alt="Green ocean browse page" width="450" height="240" />
+  - <a href="https://github.com/Kaikoura-Range/Clothy" >Clothy</a>: A front end where our team designed a page for an Ecommerce site that presents all the data associated with a given product. I designed how we fetched product data from the api and the module that showed products related to the current product being viewed.
+  - <img src="https://i.imgur.com/9jcnyCm.png" alt="Light mode page" width="450" height="324" />   <img src="https://i.imgur.com/nC0xK4E.png" alt="Dark mode page" width="450" height="324" /> 
+  - <a href="https://github.com/SpicyCumin" >Clothy API</a>: A redesign of the back end that supplies product data to the already exisiting front end. We split the api up into multiple micro services. I was in charge of the ratings, review and meta data, <a href="https://github.com/7socks" >Elfric Dexter</a> created the product overview service, and <a href="https://github.com/positiveFx" >Stephanie Yeong</a> redesigned the questions and answers api.
+
+
+
+<p align="left"> 
+</p> 
+
 
 - 💬 Ask me about **Pytorch projects**
 
