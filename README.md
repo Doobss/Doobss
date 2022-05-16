@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ian Bringe</h1>
+<h1 align="center">Hi I'm Ian Bringe</h1>
 <h3 align="center">let me know what you're looking for, I may be able to help.</h3>
 
 - 🌱 I’m currently learning **Rust, and taking a deeper dive into C++**
 
-- 👨‍💻 Some of the projects I've worked on:
+- 👨‍💻 Some of my **PERSONAL** projects I've worked on:
+  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Protien Generator/Visulizer**</a>: A little project that generates random strings of "DNA" and then breaks them down into their constituent amino acids. Once we have the amino acid sequence it then generates a vector array image of the protien to be rendered by plotly on the front end. The "DNA" is generated, split and reassembled using **PyTorch**, the data is then served using **Flask** and rendered by **React**.
+  - <img src="https://i.imgur.com/eAvcnk3.png" alt="Tall protien" width="22%" height="auto" />  <img src="https://i.imgur.com/rKf3aeX.png" alt="Prot Map" width="38.5%" height="auto" />  <img src="https://i.imgur.com/1gmstjX.png" alt="Prot Map with Legend" width="38.5%" height="auto" />
 
+- 👨‍💻 Some of the **TEAM** projects I've worked on:
 
   - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A fullstack project where we built a web app that connects potential donors of goods to people and chariteis in their local area. <a href="https://github.com/positiveFx" >Stephanie Yeong</a> and I designed and Implemented the backend and the front ends overall application state.
   - <img src="https://i.imgur.com/KLruRtZ.png" alt="Green ocean landing page" width="49%" height="auto" />  <img src="https://i.imgur.com/tucUhtK.png" alt="Green ocean browse page" width="49%" height="auto" />
