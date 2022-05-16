@@ -3,12 +3,12 @@
 
 
 - 👨‍💻 Some of my **PERSONAL** projects I've worked on:
-  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Protien Generator/Visulizer**</a>: A little project that generates random strings of "DNA" and then breaks them down into their constituent amino acids. Once we have the amino acid sequence it then generates a vector array image of the protien to be rendered by plotly on the front end. The "DNA" is generated, split and reassembled using **PyTorch**, the data is then served using **Flask** and rendered by **React**.
+  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Protien Generator/Visulizer**</a>: This is a project that generates random strings of "DNA" and then breaks them down into their constituent amino acids. Once we have the amino acid sequence it then generates a vector array image of the protien to be rendered by plotly on the front end. The "DNA" is generated, split and reassembled using **PyTorch**, the data is then served using **Flask** and rendered by **React**.
   - <img src="https://i.imgur.com/eAvcnk3.png" alt="Tall protien" width="22%" height="auto" />  <img src="https://i.imgur.com/rKf3aeX.png" alt="Prot Map" width="38.5%" height="auto" />  <img src="https://i.imgur.com/1gmstjX.png" alt="Prot Map with Legend" width="38.5%" height="auto" />
 
 - 👨‍💻 Some of the **TEAM** projects I've worked on:
 
-  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A fullstack project where we built a web app that connects potential donors of goods to people and chariteis in their local area. <a href="https://github.com/positiveFx" >Stephanie Yeong</a> and I designed and Implemented the backend and the front ends overall application state.
+  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Greene Ocean**</a>: A fullstack project where we built a web app that connects potential donors of goods to people and charities in their local area. <a href="https://github.com/positiveFx" >Stephanie Yeong</a> and I designed and Implemented the backend and the front ends overall application state.
   - <img src="https://i.imgur.com/KLruRtZ.png" alt="Green ocean landing page" width="49%" height="auto" />  <img src="https://i.imgur.com/tucUhtK.png" alt="Green ocean browse page" width="49%" height="auto" />
   - <a href="https://github.com/Kaikoura-Range/Clothy" >**Clothy**</a>: A front end where our team designed a page for an Ecommerce site that presents all the data associated with a given product. I designed how we fetched product data from the api and the module that showed products related to the current product being viewed.
   - <img src="https://i.imgur.com/9jcnyCm.png" alt="Light mode page" width="49%" height="auto" />   <img src="https://i.imgur.com/nC0xK4E.png" alt="Dark mode page" width="49%" height="auto" /> 
