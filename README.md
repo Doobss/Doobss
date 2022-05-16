@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 Some of my **PERSONAL** projects I've worked on:
-  - <a href="https://github.com/GreeneOcean/Project_Greene" >**Protien Generator/Visulizer**</a>: This is a project that generates random strings of "DNA" and then breaks them down into their constituent amino acids. Once we have the amino acid sequence it then generates a vector array image of the protien to be rendered by plotly on the front end. The "DNA" is generated, split and reassembled using **PyTorch**, the data is then served using **Flask** and rendered by **React**.
+  - <a href="https://github.com/Doobss/ProtienGenerator" >**Protien Generator/Visulizer**</a>: This is a project that generates random strings of "DNA" and then breaks them down into their constituent amino acids. Once we have the amino acid sequence it then generates a vector array image of the protien to be rendered by plotly on the front end. The "DNA" is generated, split and reassembled using **PyTorch**, the data is then served using **Flask** and rendered by **React**.
   - <img src="https://i.imgur.com/eAvcnk3.png" alt="Tall protien" width="22%" height="auto" />  <img src="https://i.imgur.com/rKf3aeX.png" alt="Prot Map" width="38.5%" height="auto" />  <img src="https://i.imgur.com/1gmstjX.png" alt="Prot Map with Legend" width="38.5%" height="auto" />
 
 - 👨‍💻 Some of the **TEAM** projects I've worked on:
