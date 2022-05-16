@@ -1,7 +1,6 @@
 <h1 align="center">Hi I'm Ian Bringe</h1>
 <h3 align="center">let me know what you're looking for, I may be able to help.</h3>
 
-- 🌱 I’m currently learning **Rust, and taking a deeper dive into C++**
 
 - 👨‍💻 Some of my **PERSONAL** projects I've worked on:
   - <a href="https://github.com/GreeneOcean/Project_Greene" >**Protien Generator/Visulizer**</a>: A little project that generates random strings of "DNA" and then breaks them down into their constituent amino acids. Once we have the amino acid sequence it then generates a vector array image of the protien to be rendered by plotly on the front end. The "DNA" is generated, split and reassembled using **PyTorch**, the data is then served using **Flask** and rendered by **React**.
@@ -22,6 +21,8 @@
 
 
 - 💬 Ask me about **Pytorch projects**
+
+- 🌱 I’m currently learning **Rust, and taking a deeper dive into C++**
 
 - 📫 How to reach me **imbringe@gmail.com**
 
