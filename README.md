@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Ian Bringe</h1>
+<h1 align="center">Hi I'm Ian Bringe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <h3 align="center">let me know what you're looking for, I may be able to help.</h3>
 
 
